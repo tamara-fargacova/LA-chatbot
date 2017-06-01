@@ -32,8 +32,8 @@ app.listen(appEnv.port, '0.0.0.0', function() {
 *************************************************************************************************/
 var conversation = watson.conversation({
     url: 'https://gateway.watsonplatform.net/conversation/api',   
-    username: 'CONVERSATION_USERNAME',   // Set to your conversation username
-    password: 'CONVERSATION_PASSWORD',   // Set to your conversation password
+    username: 'b76ca874-4913-4475-aa37-8942fa009d0a',   // Set to your conversation username
+    password: 'sAEBqaOt6Pan',   // Set to your conversation password
     version_date: '2016-07-11',
     version: 'v1'
 });
